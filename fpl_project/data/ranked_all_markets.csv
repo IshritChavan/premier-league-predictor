@@ -1,0 +1,51 @@
+Rank,Date,Home_Team,Away_Team,Fixture,Market,Probability,Probability_Percentage
+1,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Home or Draw,0.9282,92.82
+2,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Home or Draw,0.8823,88.23
+3,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Home or Draw,0.796,79.6
+4,2026-08-22,Hull City,Man United,Hull City vs Man United,Draw or Away,0.7613,76.13
+5,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Home Win,0.742,74.2
+6,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Home or Draw,0.7291,72.91
+7,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Home or Draw,0.7262,72.62
+8,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Home or Draw,0.7178,71.78
+9,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Home or Draw,0.7091,70.91
+10,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Draw or Away,0.6871,68.71
+11,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Home or Draw,0.6718,67.18
+12,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Home Win,0.665,66.5
+13,2026-08-22,Hull City,Man United,Hull City vs Man United,Away Win,0.5852,58.52
+14,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Home Win,0.5659,56.59
+15,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Draw or Away,0.5559,55.59
+16,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Draw or Away,0.522,52.2
+17,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Home or Draw,0.5139,51.39
+18,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Draw or Away,0.5136,51.36
+19,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Draw or Away,0.5053,50.53
+20,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Draw or Away,0.5026,50.26
+21,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Home Win,0.4974,49.74
+22,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Home Win,0.4947,49.47
+23,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Home Win,0.4864,48.64
+24,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Away Win,0.4861,48.61
+25,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Home Win,0.478,47.8
+26,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Home Win,0.4441,44.41
+27,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Draw or Away,0.4341,43.41
+28,2026-08-22,Hull City,Man United,Hull City vs Man United,Home or Draw,0.4148,41.48
+29,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Draw or Away,0.335,33.5
+30,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Away Win,0.3282,32.82
+31,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Home Win,0.3129,31.29
+32,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Away Win,0.2909,29.09
+33,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Away Win,0.2822,28.22
+34,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Away Win,0.2738,27.38
+35,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Away Win,0.2709,27.09
+36,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Draw or Away,0.258,25.8
+37,2026-08-22,Hull City,Man United,Hull City vs Man United,Home Win,0.2387,23.87
+38,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Draw,0.2317,23.17
+39,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Draw,0.2315,23.15
+40,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Draw,0.2314,23.14
+41,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Draw,0.231,23.1
+42,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Draw,0.2301,23.01
+43,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Draw,0.2277,22.77
+44,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Draw,0.2173,21.73
+45,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Away Win,0.204,20.4
+46,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Draw,0.201,20.1
+47,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Draw,0.1862,18.62
+48,2026-08-22,Hull City,Man United,Hull City vs Man United,Draw,0.1761,17.61
+49,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Away Win,0.1177,11.77
+50,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Away Win,0.0718,7.18

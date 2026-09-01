@@ -1,0 +1,48 @@
+{
+    "feature_columns": [
+        "Home_Elo",
+        "Away_Elo",
+        "Elo_Difference",
+        "Home_Elo_With_Advantage",
+        "Home_Expected_Score",
+        "Away_Expected_Score",
+        "Home_Form_Points",
+        "Home_Form_Goals_For",
+        "Home_Form_Goals_Against",
+        "Home_Form_Shots_For",
+        "Home_Form_Shots_Against",
+        "Home_Form_Shots_On_Target_For",
+        "Home_Form_Shots_On_Target_Against",
+        "Home_Previous_Matches_Available",
+        "Away_Form_Points",
+        "Away_Form_Goals_For",
+        "Away_Form_Goals_Against",
+        "Away_Form_Shots_For",
+        "Away_Form_Shots_Against",
+        "Away_Form_Shots_On_Target_For",
+        "Away_Form_Shots_On_Target_Against",
+        "Away_Previous_Matches_Available",
+        "Form_Points_Difference",
+        "Form_Goals_For_Difference",
+        "Form_Goals_Against_Difference",
+        "Form_Shots_Difference",
+        "Form_Shots_On_Target_Difference"
+    ],
+    "target_column": "Full_Time_Result",
+    "class_order": [
+        "H",
+        "D",
+        "A"
+    ],
+    "train_seasons": [
+        "2021-22",
+        "2022-23",
+        "2023-24"
+    ],
+    "validation_seasons": [
+        "2024-25"
+    ],
+    "test_seasons": [
+        "2025-26"
+    ]
+}

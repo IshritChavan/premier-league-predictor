@@ -1,0 +1,11 @@
+Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probability,Draw_Probability,Away_Win_Probability,Home_Or_Draw_Probability,Draw_Or_Away_Probability,Best_Single_Result,Best_Single_Probability,Highest_Probability_Market,Highest_Probability,Confidence
+2026-08-21,12:00,2026-27,1,Arsenal,Coventry City,H,0.742,0.1862,0.0718,0.9282,0.258,Home Win,0.742,Home or Draw,0.9282,High
+2026-08-23,06:00,2026-27,1,Man City,Bournemouth,H,0.665,0.2173,0.1177,0.8823,0.335,Home Win,0.665,Home or Draw,0.8823,High
+2026-08-22,09:30,2026-27,1,Brentford,Tottenham,H,0.5659,0.2301,0.204,0.796,0.4341,Home Win,0.5659,Home or Draw,0.796,Medium
+2026-08-22,04:30,2026-27,1,Hull City,Man United,A,0.2387,0.1761,0.5852,0.4148,0.7613,Away Win,0.5852,Draw or Away,0.7613,Medium
+2026-08-22,07:00,2026-27,1,Nott'm Forest,Leeds,H,0.4974,0.2317,0.2709,0.7291,0.5026,Home Win,0.4974,Home or Draw,0.7291,Medium
+2026-08-22,07:00,2026-27,1,Everton,Crystal Palace,H,0.4947,0.2315,0.2738,0.7262,0.5053,Home Win,0.4947,Home or Draw,0.7262,Medium
+2026-08-24,12:00,2026-27,1,Fulham,Chelsea,H,0.4864,0.2314,0.2822,0.7178,0.5136,Home Win,0.4864,Home or Draw,0.7178,Medium
+2026-08-23,06:00,2026-27,1,Brighton,Aston Villa,H,0.478,0.231,0.2909,0.7091,0.522,Home Win,0.478,Home or Draw,0.7091,Medium
+2026-08-22,07:00,2026-27,1,Ipswich,Sunderland,A,0.3129,0.201,0.4861,0.5139,0.6871,Away Win,0.4861,Draw or Away,0.6871,Medium
+2026-08-23,08:30,2026-27,1,Newcastle,Liverpool,H,0.4441,0.2277,0.3282,0.6718,0.5559,Home Win,0.4441,Home or Draw,0.6718,Medium

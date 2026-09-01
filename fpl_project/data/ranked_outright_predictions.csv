@@ -1,0 +1,31 @@
+Rank,Date,Home_Team,Away_Team,Fixture,Prediction,Probability,Probability_Percentage
+1,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Home Win,0.742,74.2
+2,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Home Win,0.665,66.5
+3,2026-08-22,Hull City,Man United,Hull City vs Man United,Away Win,0.5852,58.52
+4,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Home Win,0.5659,56.59
+5,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Home Win,0.4974,49.74
+6,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Home Win,0.4947,49.47
+7,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Home Win,0.4864,48.64
+8,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Away Win,0.4861,48.61
+9,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Home Win,0.478,47.8
+10,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Home Win,0.4441,44.41
+11,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Away Win,0.3282,32.82
+12,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Home Win,0.3129,31.29
+13,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Away Win,0.2909,29.09
+14,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Away Win,0.2822,28.22
+15,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Away Win,0.2738,27.38
+16,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Away Win,0.2709,27.09
+17,2026-08-22,Hull City,Man United,Hull City vs Man United,Home Win,0.2387,23.87
+18,2026-08-22,Nott'm Forest,Leeds,Nott'm Forest vs Leeds,Draw,0.2317,23.17
+19,2026-08-22,Everton,Crystal Palace,Everton vs Crystal Palace,Draw,0.2315,23.15
+20,2026-08-24,Fulham,Chelsea,Fulham vs Chelsea,Draw,0.2314,23.14
+21,2026-08-23,Brighton,Aston Villa,Brighton vs Aston Villa,Draw,0.231,23.1
+22,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Draw,0.2301,23.01
+23,2026-08-23,Newcastle,Liverpool,Newcastle vs Liverpool,Draw,0.2277,22.77
+24,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Draw,0.2173,21.73
+25,2026-08-22,Brentford,Tottenham,Brentford vs Tottenham,Away Win,0.204,20.4
+26,2026-08-22,Ipswich,Sunderland,Ipswich vs Sunderland,Draw,0.201,20.1
+27,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Draw,0.1862,18.62
+28,2026-08-22,Hull City,Man United,Hull City vs Man United,Draw,0.1761,17.61
+29,2026-08-23,Man City,Bournemouth,Man City vs Bournemouth,Away Win,0.1177,11.77
+30,2026-08-21,Arsenal,Coventry City,Arsenal vs Coventry City,Away Win,0.0718,7.18
