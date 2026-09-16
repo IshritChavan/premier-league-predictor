@@ -22,12 +22,24 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Check API key is configured
+        run: |
+          if [ -z "${{ secrets.FOOTBALL_DATA_API_KEY }}" ]; then
+            echo "::warning::FOOTBALL_DATA_API_KEY secret is not set. fetch_fixtures.py will fail until it is added in Settings > Secrets and variables > Actions."
+          else
+            echo "FOOTBALL_DATA_API_KEY is set (length: ${#FOOTBALL_DATA_API_KEY})."
+          fi
+        env:
+          FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
+
       - name: Refresh data and predictions
+        id: refresh
         env:
           FOOTBALL_DATA_API_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
         run: python run_pipeline.py
 
       - name: Commit refreshed outputs
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -38,3 +50,7 @@ jobs:
             git commit -m "Auto-refresh Premier League predictions"
             git push
           fi
+
+      - name: Fail the run if any stage failed
+        if: steps.refresh.outcome == 'failure'
+        run: exit 1
