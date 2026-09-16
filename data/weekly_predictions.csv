@@ -1,11 +1,11 @@
 Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probability,Draw_Probability,Away_Win_Probability,Home_Or_Draw_Probability,Draw_Or_Away_Probability,Best_Single_Result,Best_Single_Probability,Highest_Probability_Market,Highest_Probability,Confidence
-2026-09-05,07:00,2026-27,3,Man City,Coventry City,H,0.8861,0.0789,0.035,0.965,0.1139,Home Win,0.8861,Home or Draw,0.965,High
-2026-09-06,08:30,2026-27,3,Arsenal,Chelsea,H,0.7912,0.1666,0.0422,0.9578,0.2088,Home Win,0.7912,Home or Draw,0.9578,High
-2026-09-05,07:00,2026-27,3,Brighton,Leeds,H,0.6634,0.2357,0.1009,0.8991,0.3366,Home Win,0.6634,Home or Draw,0.8991,High
-2026-09-04,12:00,2026-27,3,Ipswich Town,Liverpool,A,0.1217,0.2418,0.6365,0.3635,0.8783,Away Win,0.6365,Draw or Away,0.8783,High
-2026-09-05,07:00,2026-27,3,Nott'm Forest,Tottenham,H,0.6183,0.2251,0.1566,0.8434,0.3817,Home Win,0.6183,Home or Draw,0.8434,High
-2026-09-06,06:00,2026-27,3,Everton,Man United,A,0.1913,0.1279,0.6809,0.3191,0.8087,Away Win,0.6809,Draw or Away,0.8087,High
-2026-09-05,07:00,2026-27,3,Fulham,Crystal Palace,H,0.5591,0.2418,0.1992,0.8008,0.4409,Home Win,0.5591,Home or Draw,0.8008,High
-2026-09-05,07:00,2026-27,3,Brentford,Sunderland,H,0.5338,0.1708,0.2954,0.7046,0.4662,Home Win,0.5338,Home or Draw,0.7046,Medium
-2026-09-05,04:30,2026-27,3,Newcastle,Bournemouth,A,0.3038,0.2941,0.4021,0.5979,0.6962,Away Win,0.4021,Draw or Away,0.6962,Medium
-2026-09-05,09:30,2026-27,3,Hull City,Aston Villa,H,0.4525,0.2398,0.3078,0.6922,0.5475,Home Win,0.4525,Home or Draw,0.6922,Medium
+2026-09-05,07:00,2026-27,3,Man City,Coventry City,H,0.8557,0.1069,0.0373,0.9627,0.1443,Home Win,0.8557,Home or Draw,0.9627,High
+2026-09-06,08:30,2026-27,3,Arsenal,Chelsea,H,0.8033,0.1391,0.0577,0.9423,0.1967,Home Win,0.8033,Home or Draw,0.9423,High
+2026-09-05,07:00,2026-27,3,Brighton,Leeds,H,0.5974,0.2476,0.155,0.845,0.4026,Home Win,0.5974,Home or Draw,0.845,High
+2026-09-04,12:00,2026-27,3,Ipswich Town,Liverpool,A,0.1611,0.2017,0.6372,0.3628,0.8389,Away Win,0.6372,Draw or Away,0.8389,High
+2026-09-05,07:00,2026-27,3,Fulham,Crystal Palace,H,0.5786,0.2242,0.1972,0.8028,0.4214,Home Win,0.5786,Home or Draw,0.8028,High
+2026-09-05,07:00,2026-27,3,Nott'm Forest,Tottenham,H,0.5714,0.2107,0.2179,0.7821,0.4286,Home Win,0.5714,Home or Draw,0.7821,Medium
+2026-09-06,06:00,2026-27,3,Everton,Man United,A,0.2713,0.1611,0.5677,0.4323,0.7287,Away Win,0.5677,Draw or Away,0.7287,Medium
+2026-09-05,04:30,2026-27,3,Newcastle,Bournemouth,A,0.2788,0.3129,0.4082,0.5918,0.7212,Away Win,0.4082,Draw or Away,0.7212,Medium
+2026-09-05,07:00,2026-27,3,Brentford,Sunderland,H,0.4551,0.2658,0.2792,0.7208,0.5449,Home Win,0.4551,Home or Draw,0.7208,Medium
+2026-09-05,09:30,2026-27,3,Hull City,Aston Villa,H,0.4396,0.2104,0.35,0.65,0.5604,Home Win,0.4396,Home or Draw,0.65,Medium
