@@ -2,9 +2,5 @@ Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probabi
 2026-09-20,06:00,2026-27,5,Man City,Sunderland,H,0.7464,0.1706,0.083,0.917,0.2536,Home Win,0.7464,Home or Draw,0.917,High
 2026-09-20,06:00,2026-27,5,Leeds,Crystal Palace,H,0.6499,0.2265,0.1237,0.8763,0.3501,Home Win,0.6499,Home or Draw,0.8763,High
 2026-09-19,09:30,2026-27,5,Nott'm Forest,Coventry City,H,0.6733,0.1847,0.142,0.858,0.3267,Home Win,0.6733,Home or Draw,0.858,High
-2026-09-19,07:00,2026-27,5,Everton,Ipswich Town,H,0.6766,0.1788,0.1445,0.8555,0.3234,Home Win,0.6766,Home or Draw,0.8555,High
-2026-09-19,07:00,2026-27,5,Newcastle,Hull City,H,0.4587,0.3731,0.1682,0.8318,0.5413,Home Win,0.4587,Home or Draw,0.8318,High
 2026-09-20,08:30,2026-27,5,Fulham,Man United,A,0.196,0.182,0.622,0.378,0.804,Away Win,0.622,Draw or Away,0.804,High
 2026-09-20,06:00,2026-27,5,Bournemouth,Liverpool,H,0.4929,0.1934,0.3137,0.6863,0.5071,Home Win,0.4929,Home or Draw,0.6863,Medium
-2026-09-19,07:00,2026-27,5,Brighton,Arsenal,A,0.3301,0.2746,0.3952,0.6048,0.6699,Away Win,0.3952,Draw or Away,0.6699,Medium
-2026-09-19,04:30,2026-27,5,Tottenham,Aston Villa,A,0.3415,0.1932,0.4653,0.5347,0.6585,Away Win,0.4653,Draw or Away,0.6585,Medium
