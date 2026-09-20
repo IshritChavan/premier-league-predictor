@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,2,0.8036,80.36,Man City vs Sunderland — Home or Draw (91.7%) | Leeds vs Crystal Palace — Home or Draw (87.6%)
-Parlay 2,Low Risk,3,0.6461,64.61,Man City vs Sunderland — Home or Draw (91.7%) | Leeds vs Crystal Palace — Home or Draw (87.6%) | Fulham vs Man United — Draw or Away (80.4%)
-Parlay 3,Medium Risk,4,0.2464,24.64,Man City vs Sunderland — Home or Draw (91.7%) | Leeds vs Crystal Palace — Home or Draw (87.6%) | Fulham vs Man United — Away Win (62.2%) | Bournemouth vs Liverpool — Home Win (49.3%)
-Parlay 4,High Risk,4,0.1487,14.87,Man City vs Sunderland — Home Win (74.6%) | Leeds vs Crystal Palace — Home Win (65.0%) | Fulham vs Man United — Away Win (62.2%) | Bournemouth vs Liverpool — Home Win (49.3%)
-Parlay 5,Extreme Risk,4,0.1487,14.87,Man City vs Sunderland — Home Win (74.6%) | Leeds vs Crystal Palace — Home Win (65.0%) | Fulham vs Man United — Away Win (62.2%) | Bournemouth vs Liverpool — Home Win (49.3%)
+Parlay 1,Highest Confidence,2,0.8087,80.87,Arsenal vs Leeds — Home or Draw (95.3%) | Man United vs Tottenham — Home or Draw (84.9%)
+Parlay 2,Low Risk,3,0.6021,60.21,Arsenal vs Leeds — Home or Draw (95.3%) | Man United vs Tottenham — Home or Draw (84.9%) | Ipswich Town vs Fulham — Draw or Away (74.5%)
+Parlay 3,Medium Risk,4,0.1895,18.95,Arsenal vs Leeds — Home or Draw (95.3%) | Man United vs Tottenham — Home or Draw (84.9%) | Ipswich Town vs Fulham — Away Win (52.5%) | Sunderland vs Brighton — Away Win (44.7%)
+Parlay 4,High Risk,5,0.056,5.6,Arsenal vs Leeds — Home Win (81.2%) | Man United vs Tottenham — Home Win (66.8%) | Ipswich Town vs Fulham — Away Win (52.5%) | Sunderland vs Brighton — Away Win (44.7%) | Coventry City vs Newcastle — Away Win (44.1%)
+Parlay 5,Extreme Risk,7,0.0105,1.05,Arsenal vs Leeds — Home Win (81.2%) | Man United vs Tottenham — Home Win (66.8%) | Ipswich Town vs Fulham — Away Win (52.5%) | Sunderland vs Brighton — Away Win (44.7%) | Coventry City vs Newcastle — Away Win (44.1%) | Hull City vs Everton — Away Win (43.9%) | Liverpool vs Man City — Home Win (42.6%)
