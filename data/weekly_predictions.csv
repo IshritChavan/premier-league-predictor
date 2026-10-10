@@ -1,5 +1,4 @@
 Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probability,Draw_Probability,Away_Win_Probability,Home_Or_Draw_Probability,Draw_Or_Away_Probability,Best_Single_Result,Best_Single_Probability,Highest_Probability_Market,Highest_Probability,Confidence
-2026-10-10,04:30,2026-27,6,Arsenal,Leeds,H,0.7536,0.179,0.0674,0.9326,0.2464,Home Win,0.7536,Home or Draw,0.9326,High
 2026-10-10,09:30,2026-27,6,Man United,Tottenham,H,0.6398,0.18,0.1801,0.8199,0.3602,Home Win,0.6398,Home or Draw,0.8199,High
 2026-10-11,08:30,2026-27,6,Liverpool,Man City,H,0.4651,0.2577,0.2772,0.7228,0.5349,Home Win,0.4651,Home or Draw,0.7228,Medium
 2026-10-11,06:00,2026-27,6,Crystal Palace,Nott'm Forest,A,0.2803,0.2875,0.4323,0.5677,0.7197,Away Win,0.4323,Draw or Away,0.7197,Medium
