@@ -1,13 +1,7 @@
 Rank,Date,Home_Team,Away_Team,Fixture,Prediction,Probability,Probability_Percentage
-1,2026-10-11,Hull City,Everton,Hull City vs Everton,Away Win,0.4785,47.85
-2,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Home Win,0.4651,46.51
-3,2026-10-11,Crystal Palace,Nott'm Forest,Crystal Palace vs Nott'm Forest,Away Win,0.4323,43.23
-4,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Away Win,0.3883,38.83
-5,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Home Win,0.3527,35.27
-6,2026-10-11,Hull City,Everton,Hull City vs Everton,Home Win,0.2887,28.87
-7,2026-10-11,Crystal Palace,Nott'm Forest,Crystal Palace vs Nott'm Forest,Draw,0.2875,28.75
-8,2026-10-11,Crystal Palace,Nott'm Forest,Crystal Palace vs Nott'm Forest,Home Win,0.2803,28.03
-9,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Away Win,0.2772,27.72
-10,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Draw,0.259,25.9
-11,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Draw,0.2577,25.77
-12,2026-10-11,Hull City,Everton,Hull City vs Everton,Draw,0.2328,23.28
+1,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Home Win,0.4651,46.51
+2,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Away Win,0.3883,38.83
+3,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Home Win,0.3527,35.27
+4,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Away Win,0.2772,27.72
+5,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Draw,0.259,25.9
+6,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Draw,0.2577,25.77

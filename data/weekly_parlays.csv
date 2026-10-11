@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,2,0.5202,52.02,Liverpool vs Man City — Home or Draw (72.3%) | Crystal Palace vs Nott'm Forest — Draw or Away (72.0%)
-Parlay 2,Low Risk,3,0.37,37.0,Liverpool vs Man City — Home or Draw (72.3%) | Crystal Palace vs Nott'm Forest — Draw or Away (72.0%) | Hull City vs Everton — Draw or Away (71.1%)
-Parlay 3,Medium Risk,4,0.0967,9.67,Liverpool vs Man City — Home or Draw (72.3%) | Crystal Palace vs Nott'm Forest — Draw or Away (72.0%) | Hull City vs Everton — Away Win (47.9%) | Coventry City vs Newcastle — Away Win (38.8%)
-Parlay 4,High Risk,4,0.0374,3.74,Hull City vs Everton — Away Win (47.9%) | Liverpool vs Man City — Home Win (46.5%) | Crystal Palace vs Nott'm Forest — Away Win (43.2%) | Coventry City vs Newcastle — Away Win (38.8%)
-Parlay 5,Extreme Risk,4,0.0374,3.74,Hull City vs Everton — Away Win (47.9%) | Liverpool vs Man City — Home Win (46.5%) | Crystal Palace vs Nott'm Forest — Away Win (43.2%) | Coventry City vs Newcastle — Away Win (38.8%)
+Parlay 1,Highest Confidence,2,0.4679,46.79,Liverpool vs Man City — Home or Draw (72.3%) | Coventry City vs Newcastle — Draw or Away (64.7%)
+Parlay 2,Low Risk,2,0.4679,46.79,Liverpool vs Man City — Home or Draw (72.3%) | Coventry City vs Newcastle — Draw or Away (64.7%)
+Parlay 3,Medium Risk,2,0.4679,46.79,Liverpool vs Man City — Home or Draw (72.3%) | Coventry City vs Newcastle — Draw or Away (64.7%)
+Parlay 4,High Risk,2,0.1806,18.06,Liverpool vs Man City — Home Win (46.5%) | Coventry City vs Newcastle — Away Win (38.8%)
+Parlay 5,Extreme Risk,2,0.1806,18.06,Liverpool vs Man City — Home Win (46.5%) | Coventry City vs Newcastle — Away Win (38.8%)
