@@ -1,7 +1,4 @@
 Rank,Date,Home_Team,Away_Team,Fixture,Prediction,Probability,Probability_Percentage
-1,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Home Win,0.4651,46.51
-2,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Away Win,0.3883,38.83
-3,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Home Win,0.3527,35.27
-4,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Away Win,0.2772,27.72
-5,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Draw,0.259,25.9
-6,2026-10-11,Liverpool,Man City,Liverpool vs Man City,Draw,0.2577,25.77
+1,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Away Win,0.3883,38.83
+2,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Home Win,0.3527,35.27
+3,2026-10-12,Coventry City,Newcastle,Coventry City vs Newcastle,Draw,0.259,25.9
