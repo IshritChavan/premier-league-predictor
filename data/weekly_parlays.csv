@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,1,0.6473,64.73,Coventry City vs Newcastle — Draw or Away (64.7%)
-Parlay 2,Low Risk,1,0.6473,64.73,Coventry City vs Newcastle — Draw or Away (64.7%)
-Parlay 3,Medium Risk,1,0.6473,64.73,Coventry City vs Newcastle — Draw or Away (64.7%)
-Parlay 4,High Risk,1,0.3883,38.83,Coventry City vs Newcastle — Away Win (38.8%)
-Parlay 5,Extreme Risk,1,0.3883,38.83,Coventry City vs Newcastle — Away Win (38.8%)
+Parlay 1,Highest Confidence,2,0.8912,89.12,Man City vs Ipswich Town — Home or Draw (96.9%) | Brighton vs Crystal Palace — Home or Draw (91.9%)
+Parlay 2,Low Risk,3,0.6953,69.53,Man City vs Ipswich Town — Home or Draw (96.9%) | Brighton vs Crystal Palace — Home or Draw (91.9%) | Bournemouth vs Sunderland — Home or Draw (78.0%)
+Parlay 3,Medium Risk,4,0.285,28.5,Man City vs Ipswich Town — Home or Draw (96.9%) | Brighton vs Crystal Palace — Home or Draw (91.9%) | Bournemouth vs Sunderland — Home Win (57.2%) | Nott'm Forest vs Arsenal — Away Win (55.9%)
+Parlay 4,High Risk,5,0.0934,9.34,Man City vs Ipswich Town — Home Win (80.5%) | Brighton vs Crystal Palace — Home Win (70.8%) | Bournemouth vs Sunderland — Home Win (57.2%) | Nott'm Forest vs Arsenal — Away Win (55.9%) | Tottenham vs Coventry City — Home Win (51.3%)
+Parlay 5,Extreme Risk,7,0.0212,2.12,Man City vs Ipswich Town — Home Win (80.5%) | Brighton vs Crystal Palace — Home Win (70.8%) | Bournemouth vs Sunderland — Home Win (57.2%) | Nott'm Forest vs Arsenal — Away Win (55.9%) | Tottenham vs Coventry City — Home Win (51.3%) | Leeds vs Man United — Away Win (48.1%) | Everton vs Chelsea — Home Win (47.3%)
