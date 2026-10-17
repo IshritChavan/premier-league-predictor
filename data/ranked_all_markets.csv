@@ -5,27 +5,22 @@ Rank,Date,Home_Team,Away_Team,Fixture,Market,Probability,Probability_Percentage
 4,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Home or Draw,0.7388,73.88
 5,2026-10-18,Leeds,Man United,Leeds vs Man United,Draw or Away,0.7184,71.84
 6,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Home Win,0.7075,70.75
-7,2026-10-17,Newcastle,Aston Villa,Newcastle vs Aston Villa,Home or Draw,0.7044,70.44
-8,2026-10-17,Newcastle,Aston Villa,Newcastle vs Aston Villa,Draw or Away,0.5881,58.81
-9,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Home Win,0.5725,57.25
-10,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Away Win,0.5586,55.86
-11,2026-10-18,Leeds,Man United,Leeds vs Man United,Home or Draw,0.5189,51.89
-12,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Home Win,0.5129,51.29
-13,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Draw or Away,0.4871,48.71
-14,2026-10-18,Leeds,Man United,Leeds vs Man United,Away Win,0.4811,48.11
-15,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Home or Draw,0.4414,44.14
-16,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Draw or Away,0.4275,42.75
-17,2026-10-17,Newcastle,Aston Villa,Newcastle vs Aston Villa,Home Win,0.4119,41.19
-18,2026-10-17,Newcastle,Aston Villa,Newcastle vs Aston Villa,Away Win,0.2956,29.56
-19,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Draw or Away,0.2925,29.25
-20,2026-10-17,Newcastle,Aston Villa,Newcastle vs Aston Villa,Draw,0.2925,29.25
-21,2026-10-18,Leeds,Man United,Leeds vs Man United,Home Win,0.2816,28.16
-22,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Away Win,0.2612,26.12
-23,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Home Win,0.2416,24.16
-24,2026-10-18,Leeds,Man United,Leeds vs Man United,Draw,0.2373,23.73
-25,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Draw,0.2258,22.58
-26,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Away Win,0.2198,21.98
-27,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Draw,0.2119,21.19
-28,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Draw,0.2077,20.77
-29,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Draw,0.1998,19.98
-30,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Away Win,0.0806,8.06
+7,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Home Win,0.5725,57.25
+8,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Away Win,0.5586,55.86
+9,2026-10-18,Leeds,Man United,Leeds vs Man United,Home or Draw,0.5189,51.89
+10,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Home Win,0.5129,51.29
+11,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Draw or Away,0.4871,48.71
+12,2026-10-18,Leeds,Man United,Leeds vs Man United,Away Win,0.4811,48.11
+13,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Home or Draw,0.4414,44.14
+14,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Draw or Away,0.4275,42.75
+15,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Draw or Away,0.2925,29.25
+16,2026-10-18,Leeds,Man United,Leeds vs Man United,Home Win,0.2816,28.16
+17,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Away Win,0.2612,26.12
+18,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Home Win,0.2416,24.16
+19,2026-10-18,Leeds,Man United,Leeds vs Man United,Draw,0.2373,23.73
+20,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Draw,0.2258,22.58
+21,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Away Win,0.2198,21.98
+22,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Draw,0.2119,21.19
+23,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Draw,0.2077,20.77
+24,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Draw,0.1998,19.98
+25,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Away Win,0.0806,8.06
