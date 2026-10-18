@@ -1,16 +1,4 @@
 Rank,Date,Home_Team,Away_Team,Fixture,Prediction,Probability,Probability_Percentage
-1,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Home Win,0.7075,70.75
-2,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Home Win,0.5725,57.25
-3,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Away Win,0.5586,55.86
-4,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Home Win,0.5129,51.29
-5,2026-10-18,Leeds,Man United,Leeds vs Man United,Away Win,0.4811,48.11
-6,2026-10-18,Leeds,Man United,Leeds vs Man United,Home Win,0.2816,28.16
-7,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Away Win,0.2612,26.12
-8,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Home Win,0.2416,24.16
-9,2026-10-18,Leeds,Man United,Leeds vs Man United,Draw,0.2373,23.73
-10,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Draw,0.2258,22.58
-11,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Away Win,0.2198,21.98
-12,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Draw,0.2119,21.19
-13,2026-10-18,Bournemouth,Sunderland,Bournemouth vs Sunderland,Draw,0.2077,20.77
-14,2026-10-18,Nott'm Forest,Arsenal,Nott'm Forest vs Arsenal,Draw,0.1998,19.98
-15,2026-10-18,Brighton,Crystal Palace,Brighton vs Crystal Palace,Away Win,0.0806,8.06
+1,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Home Win,0.5129,51.29
+2,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Away Win,0.2612,26.12
+3,2026-10-19,Tottenham,Coventry City,Tottenham vs Coventry City,Draw,0.2258,22.58
