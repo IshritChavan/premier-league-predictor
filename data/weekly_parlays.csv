@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,1,0.7388,73.88,Tottenham vs Coventry City — Home or Draw (73.9%)
-Parlay 2,Low Risk,1,0.7388,73.88,Tottenham vs Coventry City — Home or Draw (73.9%)
-Parlay 3,Medium Risk,1,0.7388,73.88,Tottenham vs Coventry City — Home or Draw (73.9%)
-Parlay 4,High Risk,1,0.5129,51.29,Tottenham vs Coventry City — Home Win (51.3%)
-Parlay 5,Extreme Risk,1,0.5129,51.29,Tottenham vs Coventry City — Home Win (51.3%)
+Parlay 1,Highest Confidence,2,0.7307,73.07,Arsenal vs Everton — Home or Draw (90.4%) | Ipswich Town vs Nott'm Forest — Draw or Away (80.8%)
+Parlay 2,Low Risk,3,0.5901,59.01,Arsenal vs Everton — Home or Draw (90.4%) | Ipswich Town vs Nott'm Forest — Draw or Away (80.8%) | Chelsea vs Tottenham — Home or Draw (80.8%)
+Parlay 3,Medium Risk,4,0.2079,20.79,Arsenal vs Everton — Home or Draw (90.4%) | Ipswich Town vs Nott'm Forest — Draw or Away (80.8%) | Chelsea vs Tottenham — Home Win (53.8%) | Coventry City vs Fulham — Away Win (52.8%)
+Parlay 4,High Risk,5,0.0596,5.96,Arsenal vs Everton — Home Win (70.8%) | Ipswich Town vs Nott'm Forest — Away Win (61.1%) | Chelsea vs Tottenham — Home Win (53.8%) | Coventry City vs Fulham — Away Win (52.8%) | Liverpool vs Brighton — Home Win (48.4%)
+Parlay 5,Extreme Risk,7,0.0135,1.35,Arsenal vs Everton — Home Win (70.8%) | Ipswich Town vs Nott'm Forest — Away Win (61.1%) | Chelsea vs Tottenham — Home Win (53.8%) | Coventry City vs Fulham — Away Win (52.8%) | Liverpool vs Brighton — Home Win (48.4%) | Man United vs Bournemouth — Home Win (48.3%) | Crystal Palace vs Newcastle — Home Win (46.8%)
