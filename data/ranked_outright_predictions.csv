@@ -1,19 +1,16 @@
 Rank,Date,Home_Team,Away_Team,Fixture,Prediction,Probability,Probability_Percentage
-1,2026-10-24,Chelsea,Tottenham,Chelsea vs Tottenham,Home Win,0.5969,59.69
-2,2026-10-25,Crystal Palace,Newcastle,Crystal Palace vs Newcastle,Home Win,0.4568,45.68
-3,2026-10-25,Liverpool,Brighton,Liverpool vs Brighton,Home Win,0.4182,41.82
-4,2026-10-25,Man United,Bournemouth,Man United vs Bournemouth,Home Win,0.4048,40.48
-5,2026-10-25,Sunderland,Leeds,Sunderland vs Leeds,Away Win,0.4026,40.26
-6,2026-10-25,Hull City,Brentford,Hull City vs Brentford,Away Win,0.3923,39.23
-7,2026-10-25,Hull City,Brentford,Hull City vs Brentford,Home Win,0.364,36.4
-8,2026-10-25,Sunderland,Leeds,Sunderland vs Leeds,Home Win,0.3466,34.66
-9,2026-10-25,Liverpool,Brighton,Liverpool vs Brighton,Away Win,0.3463,34.63
-10,2026-10-25,Man United,Bournemouth,Man United vs Bournemouth,Away Win,0.3412,34.12
-11,2026-10-25,Crystal Palace,Newcastle,Crystal Palace vs Newcastle,Draw,0.3016,30.16
-12,2026-10-25,Man United,Bournemouth,Man United vs Bournemouth,Draw,0.254,25.4
-13,2026-10-25,Sunderland,Leeds,Sunderland vs Leeds,Draw,0.2509,25.09
-14,2026-10-25,Hull City,Brentford,Hull City vs Brentford,Draw,0.2438,24.38
-15,2026-10-25,Crystal Palace,Newcastle,Crystal Palace vs Newcastle,Away Win,0.2417,24.17
-16,2026-10-24,Chelsea,Tottenham,Chelsea vs Tottenham,Draw,0.241,24.1
-17,2026-10-25,Liverpool,Brighton,Liverpool vs Brighton,Draw,0.2355,23.55
-18,2026-10-24,Chelsea,Tottenham,Chelsea vs Tottenham,Away Win,0.1621,16.21
+1,2026-10-25,Crystal Palace,Newcastle,Crystal Palace vs Newcastle,Home Win,0.4568,45.68
+2,2026-10-25,Liverpool,Brighton,Liverpool vs Brighton,Home Win,0.4182,41.82
+3,2026-10-25,Man United,Bournemouth,Man United vs Bournemouth,Home Win,0.4048,40.48
+4,2026-10-25,Sunderland,Leeds,Sunderland vs Leeds,Away Win,0.4026,40.26
+5,2026-10-25,Hull City,Brentford,Hull City vs Brentford,Away Win,0.3923,39.23
+6,2026-10-25,Hull City,Brentford,Hull City vs Brentford,Home Win,0.364,36.4
+7,2026-10-25,Sunderland,Leeds,Sunderland vs Leeds,Home Win,0.3466,34.66
+8,2026-10-25,Liverpool,Brighton,Liverpool vs Brighton,Away Win,0.3463,34.63
+9,2026-10-25,Man United,Bournemouth,Man United vs Bournemouth,Away Win,0.3412,34.12
+10,2026-10-25,Crystal Palace,Newcastle,Crystal Palace vs Newcastle,Draw,0.3016,30.16
+11,2026-10-25,Man United,Bournemouth,Man United vs Bournemouth,Draw,0.254,25.4
+12,2026-10-25,Sunderland,Leeds,Sunderland vs Leeds,Draw,0.2509,25.09
+13,2026-10-25,Hull City,Brentford,Hull City vs Brentford,Draw,0.2438,24.38
+14,2026-10-25,Crystal Palace,Newcastle,Crystal Palace vs Newcastle,Away Win,0.2417,24.17
+15,2026-10-25,Liverpool,Brighton,Liverpool vs Brighton,Draw,0.2355,23.55
