@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,2,0.4996,49.96,Crystal Palace vs Newcastle — Home or Draw (75.8%) | Man United vs Bournemouth — Home or Draw (65.9%)
-Parlay 2,Low Risk,3,0.3266,32.66,Crystal Palace vs Newcastle — Home or Draw (75.8%) | Man United vs Bournemouth — Home or Draw (65.9%) | Liverpool vs Brighton — Home or Draw (65.4%)
-Parlay 3,Medium Risk,4,0.0841,8.41,Crystal Palace vs Newcastle — Home or Draw (75.8%) | Man United vs Bournemouth — Home or Draw (65.9%) | Liverpool vs Brighton — Home Win (41.8%) | Sunderland vs Leeds — Away Win (40.3%)
-Parlay 4,High Risk,5,0.0122,1.22,Crystal Palace vs Newcastle — Home Win (45.7%) | Liverpool vs Brighton — Home Win (41.8%) | Man United vs Bournemouth — Home Win (40.5%) | Sunderland vs Leeds — Away Win (40.3%) | Hull City vs Brentford — Away Win (39.2%)
-Parlay 5,Extreme Risk,5,0.0122,1.22,Crystal Palace vs Newcastle — Home Win (45.7%) | Liverpool vs Brighton — Home Win (41.8%) | Man United vs Bournemouth — Home Win (40.5%) | Sunderland vs Leeds — Away Win (40.3%) | Hull City vs Brentford — Away Win (39.2%)
+Parlay 1,Highest Confidence,2,0.6603,66.03,Man City vs Brighton — Home or Draw (86.5%) | Tottenham vs Crystal Palace — Home or Draw (76.3%)
+Parlay 2,Low Risk,3,0.4941,49.41,Man City vs Brighton — Home or Draw (86.5%) | Tottenham vs Crystal Palace — Home or Draw (76.3%) | Aston Villa vs Fulham — Home or Draw (74.8%)
+Parlay 3,Medium Risk,4,0.1805,18.05,Man City vs Brighton — Home or Draw (86.5%) | Tottenham vs Crystal Palace — Home or Draw (76.3%) | Bournemouth vs Leeds — Home Win (54.5%) | Liverpool vs Arsenal — Home Win (50.2%)
+Parlay 4,High Risk,5,0.037,3.7,Bournemouth vs Leeds — Home Win (54.5%) | Man City vs Brighton — Home Win (53.2%) | Tottenham vs Crystal Palace — Home Win (51.5%) | Liverpool vs Arsenal — Home Win (50.2%) | Aston Villa vs Fulham — Home Win (49.3%)
+Parlay 5,Extreme Risk,7,0.0075,0.75,Bournemouth vs Leeds — Home Win (54.5%) | Man City vs Brighton — Home Win (53.2%) | Tottenham vs Crystal Palace — Home Win (51.5%) | Liverpool vs Arsenal — Home Win (50.2%) | Aston Villa vs Fulham — Home Win (49.3%) | Chelsea vs Man United — Home Win (45.3%) | Coventry City vs Sunderland — Away Win (44.6%)

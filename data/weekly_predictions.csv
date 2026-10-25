@@ -1,6 +1,11 @@
 Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probability,Draw_Probability,Away_Win_Probability,Home_Or_Draw_Probability,Draw_Or_Away_Probability,Best_Single_Result,Best_Single_Probability,Highest_Probability_Market,Highest_Probability,Confidence
-2026-10-25,07:00,2026-27,8,Crystal Palace,Newcastle,H,0.4568,0.3016,0.2417,0.7583,0.5432,Home Win,0.4568,Home or Draw,0.7583,Medium
-2026-10-25,07:00,2026-27,8,Man United,Bournemouth,H,0.4048,0.254,0.3412,0.6588,0.5952,Home Win,0.4048,Home or Draw,0.6588,Medium
-2026-10-25,07:00,2026-27,8,Liverpool,Brighton,H,0.4182,0.2355,0.3463,0.6537,0.5818,Home Win,0.4182,Home or Draw,0.6537,Medium
-2026-10-25,09:30,2026-27,8,Sunderland,Leeds,A,0.3466,0.2509,0.4026,0.5974,0.6534,Away Win,0.4026,Draw or Away,0.6534,Medium
-2026-10-25,07:00,2026-27,8,Hull City,Brentford,A,0.364,0.2438,0.3923,0.6077,0.636,Away Win,0.3923,Draw or Away,0.636,Low
+2026-10-31,08:00,2026-27,9,Man City,Brighton,H,0.5325,0.3328,0.1348,0.8652,0.4675,Home Win,0.5325,Home or Draw,0.8652,High
+2026-10-31,10:30,2026-27,9,Tottenham,Crystal Palace,H,0.5151,0.2481,0.2368,0.7632,0.4849,Home Win,0.5151,Home or Draw,0.7632,Medium
+2026-10-31,13:00,2026-27,9,Aston Villa,Fulham,H,0.493,0.2552,0.2517,0.7483,0.507,Home Win,0.493,Home or Draw,0.7483,Medium
+2026-10-31,08:00,2026-27,9,Bournemouth,Leeds,H,0.545,0.1865,0.2685,0.7315,0.455,Home Win,0.545,Home or Draw,0.7315,Medium
+2026-11-01,08:30,2026-27,9,Liverpool,Arsenal,H,0.5016,0.2222,0.2762,0.7238,0.4984,Home Win,0.5016,Home or Draw,0.7238,Medium
+2026-10-31,08:00,2026-27,9,Hull City,Ipswich Town,H,0.4441,0.2634,0.2925,0.7075,0.5559,Home Win,0.4441,Home or Draw,0.7075,Medium
+2026-10-31,08:00,2026-27,9,Coventry City,Sunderland,A,0.3073,0.2464,0.4464,0.5536,0.6927,Away Win,0.4464,Draw or Away,0.6927,Medium
+2026-10-31,05:30,2026-27,9,Chelsea,Man United,H,0.4532,0.2295,0.3173,0.6827,0.5468,Home Win,0.4532,Home or Draw,0.6827,Medium
+2026-10-31,08:00,2026-27,9,Brentford,Nott'm Forest,H,0.3415,0.334,0.3245,0.6755,0.6585,Home Win,0.3415,Home or Draw,0.6755,Medium
+2026-11-02,12:00,2026-27,9,Newcastle,Everton,H,0.3714,0.284,0.3446,0.6554,0.6286,Home Win,0.3714,Home or Draw,0.6554,Medium
