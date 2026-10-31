@@ -8,4 +8,3 @@ Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probabi
 2026-11-02,12:00,2026-27,9,Newcastle,Everton,H,0.4423,0.2728,0.2849,0.7151,0.5577,Home Win,0.4423,Home or Draw,0.7151,Medium
 2026-11-01,08:30,2026-27,9,Liverpool,Arsenal,H,0.459,0.2441,0.2969,0.7031,0.541,Home Win,0.459,Home or Draw,0.7031,Medium
 2026-10-31,08:00,2026-27,9,Brentford,Nott'm Forest,A,0.3409,0.2853,0.3738,0.6262,0.6591,Away Win,0.3738,Draw or Away,0.6591,Medium
-2026-10-31,05:30,2026-27,9,Chelsea,Man United,H,0.4137,0.2143,0.3719,0.6281,0.5863,Home Win,0.4137,Home or Draw,0.6281,Low
