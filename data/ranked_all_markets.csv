@@ -1,11 +1,6 @@
 Rank,Date,Home_Team,Away_Team,Fixture,Market,Probability,Probability_Percentage
 1,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Home or Draw,0.7151,71.51
-2,2026-11-01,Liverpool,Arsenal,Liverpool vs Arsenal,Home or Draw,0.7031,70.31
-3,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Draw or Away,0.5577,55.77
-4,2026-11-01,Liverpool,Arsenal,Liverpool vs Arsenal,Draw or Away,0.541,54.1
-5,2026-11-01,Liverpool,Arsenal,Liverpool vs Arsenal,Home Win,0.459,45.9
-6,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Home Win,0.4423,44.23
-7,2026-11-01,Liverpool,Arsenal,Liverpool vs Arsenal,Away Win,0.2969,29.69
-8,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Away Win,0.2849,28.49
-9,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Draw,0.2728,27.28
-10,2026-11-01,Liverpool,Arsenal,Liverpool vs Arsenal,Draw,0.2441,24.41
+2,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Draw or Away,0.5577,55.77
+3,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Home Win,0.4423,44.23
+4,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Away Win,0.2849,28.49
+5,2026-11-02,Newcastle,Everton,Newcastle vs Everton,Draw,0.2728,27.28

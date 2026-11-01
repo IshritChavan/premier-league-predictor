@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,2,0.5028,50.28,Newcastle vs Everton — Home or Draw (71.5%) | Liverpool vs Arsenal — Home or Draw (70.3%)
-Parlay 2,Low Risk,2,0.5028,50.28,Newcastle vs Everton — Home or Draw (71.5%) | Liverpool vs Arsenal — Home or Draw (70.3%)
-Parlay 3,Medium Risk,2,0.5028,50.28,Newcastle vs Everton — Home or Draw (71.5%) | Liverpool vs Arsenal — Home or Draw (70.3%)
-Parlay 4,High Risk,2,0.203,20.3,Liverpool vs Arsenal — Home Win (45.9%) | Newcastle vs Everton — Home Win (44.2%)
-Parlay 5,Extreme Risk,2,0.203,20.3,Liverpool vs Arsenal — Home Win (45.9%) | Newcastle vs Everton — Home Win (44.2%)
+Parlay 1,Highest Confidence,1,0.7151,71.51,Newcastle vs Everton — Home or Draw (71.5%)
+Parlay 2,Low Risk,1,0.7151,71.51,Newcastle vs Everton — Home or Draw (71.5%)
+Parlay 3,Medium Risk,1,0.7151,71.51,Newcastle vs Everton — Home or Draw (71.5%)
+Parlay 4,High Risk,1,0.4423,44.23,Newcastle vs Everton — Home Win (44.2%)
+Parlay 5,Extreme Risk,1,0.4423,44.23,Newcastle vs Everton — Home Win (44.2%)

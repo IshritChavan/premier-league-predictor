@@ -1,3 +1,2 @@
 Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probability,Draw_Probability,Away_Win_Probability,Home_Or_Draw_Probability,Draw_Or_Away_Probability,Best_Single_Result,Best_Single_Probability,Highest_Probability_Market,Highest_Probability,Confidence
 2026-11-02,12:00,2026-27,9,Newcastle,Everton,H,0.4423,0.2728,0.2849,0.7151,0.5577,Home Win,0.4423,Home or Draw,0.7151,Medium
-2026-11-01,08:30,2026-27,9,Liverpool,Arsenal,H,0.459,0.2441,0.2969,0.7031,0.541,Home Win,0.459,Home or Draw,0.7031,Medium
