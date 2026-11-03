@@ -1,36 +1,36 @@
 Rank,Date,Home_Team,Away_Team,Fixture,Market,Probability,Probability_Percentage
 1,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Home or Draw,0.936,93.6
 2,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Home or Draw,0.8855,88.55
-3,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Home or Draw,0.86,86.0
+3,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Home or Draw,0.8678,86.78
 4,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Draw or Away,0.8563,85.63
 5,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Draw or Away,0.7883,78.83
 6,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Draw or Away,0.7856,78.56
 7,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Draw or Away,0.7503,75.03
 8,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Home Win,0.7486,74.86
 9,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Home or Draw,0.7311,73.11
-10,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Home or Draw,0.7299,72.99
-11,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Away Win,0.7141,71.41
+10,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Away Win,0.7141,71.41
+11,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Home or Draw,0.6999,69.99
 12,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Draw or Away,0.6514,65.14
 13,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Home Win,0.643,64.3
-14,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Home Win,0.6172,61.72
+14,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Home Win,0.6321,63.21
 15,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Home or Draw,0.6062,60.62
 16,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Away Win,0.537,53.7
-17,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Home Win,0.529,52.9
-18,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Draw or Away,0.5149,51.49
-19,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Away Win,0.5107,51.07
-20,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Home or Draw,0.5032,50.32
-21,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Away Win,0.4968,49.68
-22,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Home or Draw,0.4893,48.93
-23,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Home Win,0.4851,48.51
-24,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Draw or Away,0.471,47.1
+17,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Draw or Away,0.5149,51.49
+18,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Away Win,0.5107,51.07
+19,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Home or Draw,0.5032,50.32
+20,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Draw or Away,0.501,50.1
+21,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Home Win,0.499,49.9
+22,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Away Win,0.4968,49.68
+23,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Home or Draw,0.4893,48.93
+24,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Home Win,0.4851,48.51
 25,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Home or Draw,0.463,46.3
 26,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Away Win,0.3938,39.38
-27,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Draw or Away,0.3828,38.28
+27,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Draw or Away,0.3679,36.79
 28,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Draw or Away,0.357,35.7
 29,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Home Win,0.3486,34.86
-30,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Home or Draw,0.2859,28.59
-31,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Draw,0.2749,27.49
-32,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Away Win,0.2701,27.01
+30,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Away Win,0.3001,30.01
+31,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Home or Draw,0.2859,28.59
+32,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Draw,0.2749,27.49
 33,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Away Win,0.2689,26.89
 34,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Draw,0.2576,25.76
 35,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Draw,0.2536,25.36
@@ -38,14 +38,14 @@ Rank,Date,Home_Team,Away_Team,Fixture,Market,Probability,Probability_Percentage
 37,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Draw,0.2513,25.13
 38,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Home Win,0.2497,24.97
 39,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Draw,0.246,24.6
-40,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Draw,0.2428,24.28
-41,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Draw,0.2425,24.25
+40,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Draw,0.2425,24.25
+41,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Draw,0.2357,23.57
 42,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Home Win,0.2144,21.44
 43,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Home Win,0.2117,21.17
 44,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Draw,0.2009,20.09
 45,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Draw,0.1874,18.74
 46,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Home Win,0.1437,14.37
 47,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Draw,0.1423,14.23
-48,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Away Win,0.14,14.0
+48,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Away Win,0.1322,13.22
 49,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Away Win,0.1145,11.45
 50,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Away Win,0.064,6.4
