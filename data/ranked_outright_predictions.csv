@@ -2,30 +2,27 @@ Rank,Date,Home_Team,Away_Team,Fixture,Prediction,Probability,Probability_Percent
 1,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Home Win,0.7486,74.86
 2,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Away Win,0.7141,71.41
 3,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Home Win,0.643,64.3
-4,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Home Win,0.6321,63.21
-5,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Away Win,0.537,53.7
-6,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Away Win,0.5107,51.07
-7,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Home Win,0.499,49.9
-8,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Away Win,0.4968,49.68
-9,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Home Win,0.4851,48.51
-10,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Away Win,0.3938,39.38
-11,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Home Win,0.3486,34.86
-12,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Away Win,0.3001,30.01
-13,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Draw,0.2749,27.49
-14,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Away Win,0.2689,26.89
-15,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Draw,0.2576,25.76
-16,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Draw,0.2536,25.36
-17,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Draw,0.2513,25.13
-18,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Home Win,0.2497,24.97
-19,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Draw,0.246,24.6
-20,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Draw,0.2425,24.25
-21,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Draw,0.2357,23.57
-22,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Home Win,0.2144,21.44
-23,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Home Win,0.2117,21.17
-24,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Draw,0.2009,20.09
-25,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Draw,0.1874,18.74
-26,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Home Win,0.1437,14.37
-27,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Draw,0.1423,14.23
-28,2026-11-06,Everton,Coventry City,Everton vs Coventry City,Away Win,0.1322,13.22
-29,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Away Win,0.1145,11.45
-30,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Away Win,0.064,6.4
+4,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Away Win,0.537,53.7
+5,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Away Win,0.5107,51.07
+6,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Home Win,0.499,49.9
+7,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Away Win,0.4968,49.68
+8,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Home Win,0.4851,48.51
+9,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Away Win,0.3938,39.38
+10,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Home Win,0.3486,34.86
+11,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Away Win,0.3001,30.01
+12,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Draw,0.2749,27.49
+13,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Away Win,0.2689,26.89
+14,2026-11-07,Leeds,Tottenham,Leeds vs Tottenham,Draw,0.2576,25.76
+15,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Draw,0.2536,25.36
+16,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Draw,0.2513,25.13
+17,2026-11-08,Sunderland,Chelsea,Sunderland vs Chelsea,Home Win,0.2497,24.97
+18,2026-11-08,Man United,Aston Villa,Man United vs Aston Villa,Draw,0.246,24.6
+19,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Draw,0.2425,24.25
+20,2026-11-08,Crystal Palace,Liverpool,Crystal Palace vs Liverpool,Home Win,0.2144,21.44
+21,2026-11-08,Ipswich Town,Bournemouth,Ipswich Town vs Bournemouth,Home Win,0.2117,21.17
+22,2026-11-07,Fulham,Newcastle,Fulham vs Newcastle,Draw,0.2009,20.09
+23,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Draw,0.1874,18.74
+24,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Home Win,0.1437,14.37
+25,2026-11-07,Nott'm Forest,Man City,Nott'm Forest vs Man City,Draw,0.1423,14.23
+26,2026-11-08,Brighton,Brentford,Brighton vs Brentford,Away Win,0.1145,11.45
+27,2026-11-07,Arsenal,Hull City,Arsenal vs Hull City,Away Win,0.064,6.4
