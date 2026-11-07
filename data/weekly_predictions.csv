@@ -7,4 +7,3 @@ Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probabi
 2026-11-08,06:00,2026-27,10,Sunderland,Chelsea,A,0.2497,0.2536,0.4968,0.5032,0.7503,Away Win,0.4968,Draw or Away,0.7503,Medium
 2026-11-08,08:30,2026-27,10,Man United,Aston Villa,H,0.4851,0.246,0.2689,0.7311,0.5149,Home Win,0.4851,Home or Draw,0.7311,Medium
 2026-11-07,07:00,2026-27,10,Fulham,Newcastle,H,0.499,0.2009,0.3001,0.6999,0.501,Home Win,0.499,Home or Draw,0.6999,Medium
-2026-11-07,04:30,2026-27,10,Leeds,Tottenham,A,0.3486,0.2576,0.3938,0.6062,0.6514,Away Win,0.3938,Draw or Away,0.6514,Medium
