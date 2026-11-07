@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,2,0.8288,82.88,Arsenal vs Hull City — Home or Draw (93.6%) | Brighton vs Brentford — Home or Draw (88.5%)
-Parlay 2,Low Risk,3,0.7097,70.97,Arsenal vs Hull City — Home or Draw (93.6%) | Brighton vs Brentford — Home or Draw (88.5%) | Nott'm Forest vs Man City — Draw or Away (85.6%)
-Parlay 3,Medium Risk,4,0.3178,31.78,Arsenal vs Hull City — Home or Draw (93.6%) | Brighton vs Brentford — Home or Draw (88.5%) | Nott'm Forest vs Man City — Away Win (71.4%) | Ipswich Town vs Bournemouth — Away Win (53.7%)
-Parlay 4,High Risk,5,0.0943,9.43,Arsenal vs Hull City — Home Win (74.9%) | Nott'm Forest vs Man City — Away Win (71.4%) | Brighton vs Brentford — Home Win (64.3%) | Ipswich Town vs Bournemouth — Away Win (53.7%) | Crystal Palace vs Liverpool — Away Win (51.1%)
-Parlay 5,Extreme Risk,7,0.0234,2.34,Arsenal vs Hull City — Home Win (74.9%) | Nott'm Forest vs Man City — Away Win (71.4%) | Brighton vs Brentford — Home Win (64.3%) | Ipswich Town vs Bournemouth — Away Win (53.7%) | Crystal Palace vs Liverpool — Away Win (51.1%) | Fulham vs Newcastle — Home Win (49.9%) | Sunderland vs Chelsea — Away Win (49.7%)
+Parlay 1,Highest Confidence,2,0.698,69.8,Brighton vs Brentford — Home or Draw (88.5%) | Ipswich Town vs Bournemouth — Draw or Away (78.8%)
+Parlay 2,Low Risk,3,0.5484,54.84,Brighton vs Brentford — Home or Draw (88.5%) | Ipswich Town vs Bournemouth — Draw or Away (78.8%) | Crystal Palace vs Liverpool — Draw or Away (78.6%)
+Parlay 3,Medium Risk,4,0.1771,17.71,Brighton vs Brentford — Home or Draw (88.5%) | Ipswich Town vs Bournemouth — Draw or Away (78.8%) | Crystal Palace vs Liverpool — Away Win (51.1%) | Sunderland vs Chelsea — Away Win (49.7%)
+Parlay 4,High Risk,5,0.0425,4.25,Brighton vs Brentford — Home Win (64.3%) | Ipswich Town vs Bournemouth — Away Win (53.7%) | Crystal Palace vs Liverpool — Away Win (51.1%) | Sunderland vs Chelsea — Away Win (49.7%) | Man United vs Aston Villa — Home Win (48.5%)
+Parlay 5,Extreme Risk,5,0.0425,4.25,Brighton vs Brentford — Home Win (64.3%) | Ipswich Town vs Bournemouth — Away Win (53.7%) | Crystal Palace vs Liverpool — Away Win (51.1%) | Sunderland vs Chelsea — Away Win (49.7%) | Man United vs Aston Villa — Home Win (48.5%)
