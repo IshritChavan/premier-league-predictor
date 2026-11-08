@@ -69,3 +69,13 @@ Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probabi
 2026-11-08,08:30,2026-27,10,Man United,Aston Villa,H,0.4851,0.246,0.2689,0.7311,0.5149,Home Win,0.4851,Home or Draw,0.7311,Medium
 2026-11-07,07:00,2026-27,10,Fulham,Newcastle,H,0.529,0.2009,0.2701,0.7299,0.471,Home Win,0.529,Home or Draw,0.7299,Medium
 2026-11-07,04:30,2026-27,10,Leeds,Tottenham,A,0.3486,0.2576,0.3938,0.6062,0.6514,Away Win,0.3938,Draw or Away,0.6514,Medium
+2026-11-21,04:30,2026-27,11,Man City,Fulham,H,0.7377,0.1941,0.0682,0.9318,0.2623,Home Win,0.7377,Home or Draw,0.9318,High
+2026-11-21,07:00,2026-27,11,Aston Villa,Sunderland,H,0.6059,0.2438,0.1503,0.8497,0.3941,Home Win,0.6059,Home or Draw,0.8497,High
+2026-11-23,12:00,2026-27,11,Brentford,Everton,H,0.5388,0.2789,0.1823,0.8177,0.4612,Home Win,0.5388,Home or Draw,0.8177,High
+2026-11-22,06:00,2026-27,11,Hull City,Brighton,A,0.1978,0.2892,0.513,0.487,0.8022,Away Win,0.513,Draw or Away,0.8022,High
+2026-11-21,07:00,2026-27,11,Tottenham,Ipswich Town,H,0.595,0.1887,0.2163,0.7837,0.405,Home Win,0.595,Home or Draw,0.7837,Medium
+2026-11-21,09:30,2026-27,11,Newcastle,Arsenal,A,0.2336,0.2738,0.4926,0.5074,0.7664,Away Win,0.4926,Draw or Away,0.7664,Medium
+2026-11-21,07:00,2026-27,11,Chelsea,Leeds,H,0.5742,0.1854,0.2404,0.7596,0.4258,Home Win,0.5742,Home or Draw,0.7596,Medium
+2026-11-21,07:00,2026-27,11,Coventry City,Crystal Palace,H,0.4458,0.289,0.2652,0.7348,0.5542,Home Win,0.4458,Home or Draw,0.7348,Medium
+2026-11-21,07:00,2026-27,11,Bournemouth,Nott'm Forest,H,0.4782,0.2246,0.2972,0.7028,0.5218,Home Win,0.4782,Home or Draw,0.7028,Medium
+2026-11-22,08:30,2026-27,11,Liverpool,Man United,H,0.4793,0.212,0.3086,0.6914,0.5207,Home Win,0.4793,Home or Draw,0.6914,Medium
