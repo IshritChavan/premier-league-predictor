@@ -1,6 +1,6 @@
 Parlay,Risk_Level,Number_Of_Legs,Estimated_Hit_Probability,Estimated_Hit_Percentage,Legs
-Parlay 1,Highest Confidence,2,0.7918,79.18,Man City vs Fulham — Home or Draw (93.2%) | Aston Villa vs Sunderland — Home or Draw (85.0%)
-Parlay 2,Low Risk,3,0.6474,64.74,Man City vs Fulham — Home or Draw (93.2%) | Aston Villa vs Sunderland — Home or Draw (85.0%) | Brentford vs Everton — Home or Draw (81.8%)
-Parlay 3,Medium Risk,4,0.2705,27.05,Man City vs Fulham — Home or Draw (93.2%) | Aston Villa vs Sunderland — Home or Draw (85.0%) | Tottenham vs Ipswich Town — Home Win (59.5%) | Chelsea vs Leeds — Home Win (57.4%)
-Parlay 4,High Risk,5,0.0823,8.23,Man City vs Fulham — Home Win (73.8%) | Aston Villa vs Sunderland — Home Win (60.6%) | Tottenham vs Ipswich Town — Home Win (59.5%) | Chelsea vs Leeds — Home Win (57.4%) | Brentford vs Everton — Home Win (53.9%)
-Parlay 5,Extreme Risk,7,0.0208,2.08,Man City vs Fulham — Home Win (73.8%) | Aston Villa vs Sunderland — Home Win (60.6%) | Tottenham vs Ipswich Town — Home Win (59.5%) | Chelsea vs Leeds — Home Win (57.4%) | Brentford vs Everton — Home Win (53.9%) | Hull City vs Brighton — Away Win (51.3%) | Newcastle vs Arsenal — Away Win (49.3%)
+Parlay 1,Highest Confidence,2,0.7554,75.54,Man City vs Fulham — Home or Draw (88.4%) | Aston Villa vs Sunderland — Home or Draw (85.4%)
+Parlay 2,Low Risk,3,0.6292,62.92,Man City vs Fulham — Home or Draw (88.4%) | Aston Villa vs Sunderland — Home or Draw (85.4%) | Hull City vs Brighton — Draw or Away (83.3%)
+Parlay 3,Medium Risk,4,0.2529,25.29,Man City vs Fulham — Home or Draw (88.4%) | Aston Villa vs Sunderland — Home or Draw (85.4%) | Tottenham vs Ipswich Town — Home Win (58.3%) | Chelsea vs Leeds — Home Win (57.4%)
+Parlay 4,High Risk,5,0.0715,7.15,Man City vs Fulham — Home Win (68.7%) | Tottenham vs Ipswich Town — Home Win (58.3%) | Chelsea vs Leeds — Home Win (57.4%) | Aston Villa vs Sunderland — Home Win (57.1%) | Newcastle vs Arsenal — Away Win (54.5%)
+Parlay 5,Extreme Risk,7,0.0205,2.05,Man City vs Fulham — Home Win (68.7%) | Tottenham vs Ipswich Town — Home Win (58.3%) | Chelsea vs Leeds — Home Win (57.4%) | Aston Villa vs Sunderland — Home Win (57.1%) | Newcastle vs Arsenal — Away Win (54.5%) | Hull City vs Brighton — Away Win (53.7%) | Bournemouth vs Nott'm Forest — Home Win (53.4%)
