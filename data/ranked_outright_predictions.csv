@@ -1,10 +1,4 @@
 Rank,Date,Home_Team,Away_Team,Fixture,Prediction,Probability,Probability_Percentage
-1,2026-11-22,Hull City,Brighton,Hull City vs Brighton,Away Win,0.5372,53.72
-2,2026-11-22,Liverpool,Man United,Liverpool vs Man United,Home Win,0.5205,52.05
-3,2026-11-23,Brentford,Everton,Brentford vs Everton,Home Win,0.4761,47.61
-4,2026-11-23,Brentford,Everton,Brentford vs Everton,Draw,0.3287,32.87
-5,2026-11-22,Hull City,Brighton,Hull City vs Brighton,Draw,0.2958,29.58
-6,2026-11-22,Liverpool,Man United,Liverpool vs Man United,Away Win,0.2645,26.45
-7,2026-11-22,Liverpool,Man United,Liverpool vs Man United,Draw,0.215,21.5
-8,2026-11-23,Brentford,Everton,Brentford vs Everton,Away Win,0.1952,19.52
-9,2026-11-22,Hull City,Brighton,Hull City vs Brighton,Home Win,0.167,16.7
+1,2026-11-23,Brentford,Everton,Brentford vs Everton,Home Win,0.4761,47.61
+2,2026-11-23,Brentford,Everton,Brentford vs Everton,Draw,0.3287,32.87
+3,2026-11-23,Brentford,Everton,Brentford vs Everton,Away Win,0.1952,19.52
