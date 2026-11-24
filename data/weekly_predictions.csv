@@ -1,2 +1,11 @@
 Date,Time,Season,Matchweek,Home_Team,Away_Team,Predicted_Result,Home_Win_Probability,Draw_Probability,Away_Win_Probability,Home_Or_Draw_Probability,Draw_Or_Away_Probability,Best_Single_Result,Best_Single_Probability,Highest_Probability_Market,Highest_Probability,Confidence
-2026-11-23,12:00,2026-27,11,Brentford,Everton,H,0.4761,0.3287,0.1952,0.8048,0.5239,Home Win,0.4761,Home or Draw,0.8048,High
+2026-11-28,07:00,2026-27,12,Leeds,Coventry City,H,0.6506,0.2104,0.139,0.861,0.3494,Home Win,0.6506,Home or Draw,0.861,High
+2026-11-29,06:05,2026-27,12,Brighton,Newcastle,H,0.652,0.1829,0.165,0.835,0.348,Home Win,0.652,Home or Draw,0.835,High
+2026-11-29,08:30,2026-27,12,Arsenal,Man City,H,0.5875,0.2097,0.2028,0.7972,0.4125,Home Win,0.5875,Home or Draw,0.7972,Medium
+2026-11-28,09:30,2026-27,12,Ipswich Town,Aston Villa,A,0.2322,0.2894,0.4784,0.5216,0.7678,Away Win,0.4784,Draw or Away,0.7678,Medium
+2026-11-29,06:05,2026-27,12,Sunderland,Tottenham,A,0.2445,0.3289,0.4266,0.5734,0.7555,Away Win,0.4266,Draw or Away,0.7555,Medium
+2026-11-29,04:00,2026-27,12,Everton,Liverpool,A,0.2674,0.2627,0.47,0.53,0.7326,Away Win,0.47,Draw or Away,0.7326,Medium
+2026-11-28,07:00,2026-27,12,Man United,Brentford,H,0.4406,0.2847,0.2747,0.7253,0.5594,Home Win,0.4406,Home or Draw,0.7253,Medium
+2026-11-27,12:00,2026-27,12,Nott'm Forest,Chelsea,A,0.3321,0.2327,0.4352,0.5648,0.6679,Away Win,0.4352,Draw or Away,0.6679,Medium
+2026-11-29,06:05,2026-27,12,Crystal Palace,Hull City,A,0.3566,0.2815,0.3619,0.6381,0.6434,Away Win,0.3619,Draw or Away,0.6434,Low
+2026-11-29,06:05,2026-27,12,Fulham,Bournemouth,A,0.3708,0.2399,0.3893,0.6107,0.6292,Away Win,0.3893,Draw or Away,0.6292,Low
